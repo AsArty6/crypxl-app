@@ -26,8 +26,8 @@ jobs:
       - name: Install Capacitor CLI
         run: npm install @capacitor/cli @capacitor/core
 
-      - name: Add Android platform
-        run: npx cap add android
+      - name: Update Android platform
+        run: npx cap update android
 
       - name: Copy web assets
         run: npx cap copy
