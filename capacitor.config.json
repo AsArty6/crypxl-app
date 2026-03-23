@@ -1,0 +1,6 @@
+{
+  "appId": "com.crypexl.app",
+  "appName": "CrypXL",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
